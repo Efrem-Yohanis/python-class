@@ -1,1 +1,0 @@
-print('Hello Every Body This is our python first code')
