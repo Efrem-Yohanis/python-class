@@ -1,1 +1,0 @@
-print('This is class 02 file ')
